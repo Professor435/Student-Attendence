@@ -6,3 +6,4 @@ install Visual Studio and run your simple student attendence System
 For more projects and FYP's Contact us (professorshami435@gmail.com)
 
 #StudentAttendance #EducationTech #SchoolManagement #Django #React #FullStack #AttendanceTracking #StudentPortal #TeacherPortal #ClassManagement #ReportGeneration #PercentageCalculation #DefaulterList #Academic #WebApp #Database #OpenSource #EdTech
+ 
